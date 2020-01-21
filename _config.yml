@@ -14,9 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MRG Consulting
-email: mrg@mrgconsulting.co.uk
+author: MRG Consulting Ltd
+email: contact@mrgconsulting.co.uk
+phone: +44 7722 207049
 description: >- # this means to ignore newlines until "baseurl:"
-  MRG Consulting develops complex solutions to problems in the oil and gas pipeline industry.
+  MRG Consulting Ltd develops complex solutions to problems in the oil and gas pipeline industry.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
